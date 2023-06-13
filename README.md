@@ -1,6 +1,6 @@
 # MTL3_EventDetection
 
-This repository contains the codebase of the paper EDM3: Event Detection as Multi-task Text Generation.
+This repository contains the codebase of the paper EDM3: Event Detection as Multi-task Text Generation. 
 
 The scripts required for data preprocessing and preparation from their native form, as well as post-processing and evaluation can be found here.
 
